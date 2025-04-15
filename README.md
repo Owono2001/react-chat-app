@@ -8,16 +8,15 @@ A full-stack, real-time chat application built with React (using Material UI), N
 
 | Username Entry                     | Chat Interface                       |
 | :--------------------------------- | :----------------------------------- |
-| ![Enter Username Prompt](./public/EnterUsername.jpg) <br/> _User is prompted to enter a username._ | ![Chat Screen](./public/ChatScreen.jpg) <br/> _Main chat view showing messages._ |
-| ![Entering Username](./public/EnterUsername2.jpg) <br/> _User typing their username._     |                                      |
+| ![Enter Username Prompt](./client/public/EnterUsername.jpg) <br/> _User is prompted to enter a username._ | ![Chat Screen](./client/public/ChatScreen.jpg) <br/> _Main chat view showing messages._ |
+| ![Entering Username](./client/public/EnterUsername2.jpg) <br/> _User typing their username._     |                                      |
 
 **Directory Structure:**
 
-![Directory Structure](./public/DirectoryStructure.jpg)
+![Directory Structure](./client/public/DirectoryStructure.jpg)
 
 _Overview of the project folder structure._
 
-_(**Note:** If images don't load, ensure the paths above are correct relative to this README file's location and that the image files were pushed to GitHub with the exact same capitalization.)_
 
 ## Key Features
 
